@@ -22,6 +22,7 @@
         <module>book-ms</module>
         <module>order-ms</module>
         <module>user-ms</module>
+        <module>common</module>
     </modules>
 
     <properties>
