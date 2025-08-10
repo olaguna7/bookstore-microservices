@@ -16,6 +16,7 @@
     <description>bookstore-microservices</description>
 
     <modules>
+        <module>api-gateway</module>
         <module>eureka-server</module>
         <module>author-ms</module>
         <module>book-ms</module>
